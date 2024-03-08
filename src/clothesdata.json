@@ -1,0 +1,494 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "name": "Women Full Sleeve Printed Sweatshirt",
+            "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/sweatshirt/i/0/3/xxl-kttwomensweatshirt234-kotty-original-imagv8n26etksz3z.jpeg?q=70&crop=false",
+            "category": "Sweatshirts",
+            "color": "Pink",
+            "price": 1000,
+            "size": "L",
+            "quantity": 1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+        },
+        
+        {
+            "id": 2,
+            "name": "Black Jeans",
+            "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/u/v/2/32-kttladiesjeans2444-kotty-original-imagsn8y5w32q7y5.jpeg?q=70",
+            "category": "Pants",
+            "color": "Black",
+            "price": 5000,
+            "size": "32x32",
+            "quantity": 1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 3,
+            "name": "Women Geometric Print Cotton Rayon Straight Kurta  (Dark Blue)",
+            "image": "https://rukminim2.flixcart.com/image/832/832/k5msb680/kurta/2/q/j/xl-294k528-saara-original-imafz9sxdrzugfck.jpeg?q=70&crop=false",
+            "category": "traditional Wear",
+            "color": "Dark Blue",
+            "price": 1000,
+            "size": "s",
+            "quantity": 1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 4,
+            "name": "Women Viscose Rayon Kurta Skirt Set",
+            "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/y/v/r/m-1071-b-green-divastri-original-imagwbwegkzgxkee.jpeg?q=70",
+            "category": "traditional Wear",
+            "color": "navy",
+            "price": 1000,
+            "size": "Xl",
+            "quantity": 1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 5,
+            "name": "Black Sweatshirt",
+            "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sweatshirt/y/r/x/m-kttwomensweatshirt186-kotty-original-imaghasxwun68wza.jpeg?q=70",
+            "category": "Sweatshirt",
+            "color": "Black",
+            "price": 1000,
+            "size": "XL",
+            "quantity": 1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 6,
+            "name": "Embellished Semi Stitched Lehenga Choli  (Dark Blue)",
+            "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/lehenga-choli/l/p/q/free-sleeveless-lihaaz-purvaja-original-imagqapj3taqfgzr.jpeg?q=70",
+            "category": "traditional Wear",
+            "color": "Dark Blue",
+            "price": 2000,  
+            "size": "Free",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 7,
+            "name": "Blue Jeans",
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/c/h/n/32-kttladiesjeans852-kotty-original-imagyt4gcnfcybjn-bb.jpeg?q=70&crop=false",
+            "category": "Pants",
+            "color": "Blue",
+            "price": 1000,
+            "size": "32x32",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+       
+        {
+            "id": 8,
+            "name": "Casual Regular Sleeves Solid Women Maroon Top",
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/top/v/x/d/s-round-neck-half-sleeve-crop-ribbed-top-redamancii-original-imagwhg2cjbwftkz.jpeg?q=70&crop=false",
+            "category": "Tops",
+            "color": "Maroon",
+            "price": 1000,
+            "size": "L",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 9,
+            "name": "Women Self Design Round Neck Wool Blend Dark Green T-Shirt",
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/o/j/d/s-round-neck-t-shirt-zilcon-original-imagsuyzb4xnsnsh.jpeg?q=70&crop=false",
+            "category": "Tshirts",
+            "color": "Dark Green",
+            "price": 1000,
+            "size": "XXl",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 10,
+            "name": "Blue Jeans",
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/c/h/n/32-kttladiesjeans852-kotty-original-imagyt4gcnfcybjn-bb.jpeg?q=70&crop=false",
+            "category": "Pants",
+            "color": "Blue",
+            "price": 3000,
+            "size": "32x32",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 11,
+            "name": "Women Colorblock Round Neck Cotton Blend White, Black T-Shirt",
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/top/x/i/q/m-wt-07-rahi-trendz-original-imagnsr2ep5x9rgd.jpeg?q=70&crop=false",
+            "category": "Sweatshirts",
+            "color": "White",
+            "price": 1000,
+            "size": "Xl",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 12,
+            "name": "Women Solid V Neck Cotton Blend Black T-Shirt",
+            "image": "https://rukminim2.flixcart.com/image/832/832/kxnl6kw0/t-shirt/w/4/2/s-bi-women-v-neck-105-black-bi-fashion-original-imaga2d8sn286uqk.jpeg?q=70&crop=false",
+            "category": "Tshirts",
+            "color": "Black",
+            "price": 1000,
+            "size": "L",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 13,
+            "name": "Casual Regular Sleeves Solid Women Brown Top",
+            "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/top/u/k/4/m-coller-tops-style-prezone-original-imagjuvvhzxhmf4y.jpeg?q=70",
+            "category": "Tops",
+            "color": "Brown",
+            "price": 1000,
+            "size": "Xs",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 14,
+            "name": "Black Jeans",
+            "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/8/r/t/34-23111676-chemistry-original-imagsrpfr7mprh9g.jpeg?q=70",
+            "category": "Pants",
+            "color": "Black",
+            "price": 500,
+            "size": "30x30",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 15,
+            "name": "Women Regular Fit Solid Spread Collar Casual Shirt",
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/9/o/4/l-4898-901-funday-fashion-original-imagmqfehesurnhw.jpeg?q=70&crop=false",
+            "category": "Shirts",
+            "color": "Pink",
+            "price": 1000,
+            "size": "XXl",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 16,
+            "name": "Women Full Sleeve Printed Sweatshirt",
+            "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/sweatshirt/o/v/m/s-ttss001309-tokyo-talkies-original-imagwam7fuecezfz.jpeg?q=70&crop=false",
+            "category": "Sweatshirts",
+            "color": "Brown",
+            "price": 1000,
+            "size": "S",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 17,
+            "name": "Printed Semi Stitched Lehenga Choli  (Dark Green)",
+            "image": "https://rukminim2.flixcart.com/image/832/832/kxkqavk0/lehenga-choli/l/d/b/free-short-sleeve-arambh-purvaja-original-imagay3umqvt5ku4.jpeg?q=70&crop=false",
+            "category": "traditional Wear",
+            "color": "Dark Green",
+            "price": 1000,
+            "size": "Free",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 18,
+            "name": "Women Full Sleeve Graphic Print Sweatshirt",
+            "image": "https://rukminim2.flixcart.com/image/832/832/kwjkuq80/sweatshirt/9/d/2/-original-imag974wpzghqhze.jpeg?q=70&crop=false",
+            "category": "Sweatshirts",
+            "color": "Purple",
+            "price": 1000,
+            "size": "Xl",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 19,
+            "name": "Women Self Design High Neck Cotton Blend Maroon T-Shirt",
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/top/e/h/b/s-1-neck-of-high-trend-for-you-original-imagwzjy6nnvn9tu.jpeg?q=70&crop=false",
+            "category": "Sweatshirts",
+            "color": "Maroon",
+            "price": 1000,
+            "size": "S",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 20,
+            "name": "Women Printed Viscose Rayon Anarkali Kurta  (Pink)",
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/kurta/0/y/y/m-khadi-peach-seakart-original-imagm6zt6acsqqvp.jpeg?q=70&crop=false",
+            "category": "traditional Wear",
+            "color": "Pink",
+            "price": 1000,
+            "size": "S",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 21,
+            "name": "Typography, Printed Women Round Neck Cotton Blend Dark Green T-Shirt",
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/p/x/i/xxl-metro-oversize-new-503-metronaut-original-imagupphgntgkgvt.jpeg?q=70&crop=false",
+            "category": "Tshirts",
+            "color": "Dark Green",
+            "price": 1000,
+            "size": "XXl",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 22,
+            "name": "Women Embellished Silk Blend A-line Kurta  (Dark Blue)",
+            "image": "https://rukminim2.flixcart.com/image/832/832/l3lx8cw0/kurta/v/e/s/xs-23516o-libas-original-imagezz95kmbprf3.jpeg?q=70&crop=false",
+            "category": "traditional Wear",
+            "color": "Dark Blue",
+            "price": 1000,
+            "size": "Xl",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 23,
+            "name": "Black Jeans",
+            "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/jean/1/p/x/30-j-1320-blk-kashian-original-imagz9cwmdczgxgq.jpeg?q=70&crop=false",
+            "category": "Pants",
+            "color": "Black",
+            "price": 1000,
+            "size": "32x32",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 24,
+            "name": "Casual Sleeveless Solid Women Orange Top",
+            "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/top/3/l/0/s-khtp000453-ketch-original-imagtdtxfkftgefk.jpeg?q=70",
+            "category": "Tops",
+            "color": "Orange",
+            "price": 1000,
+            "size": "S",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 25,
+            "name": "Women Printed Viscose Rayon Anarkali Kurta  (Yellow)",
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/kurta/x/j/r/xl-153m-annsh-apparel-original-imagw972hxpgznpd.jpeg?q=70&crop=false",
+            "category": "traditional Wear",
+            "color": "Yellow",
+            "price": 1000,
+            "size": "Xl",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 26,
+            "name": "Women Printed Cotton Blend Straight Kurta  (Blue)",
+            "image": "https://rukminim2.flixcart.com/image/832/832/l2hwwi80/kurta/j/j/e/m-23357o-libas-original-imagdtudazbkqh5g.jpeg?q=70&crop=false",
+            "category": "traditional Wear",
+            "color": "Blue",
+            "price": 1000,
+            "size": "XL",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 27,
+            "name": "Women Super Skinny High Rise Blue Jeans",
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/n/i/g/-original-imagufyz4rrq6acp.jpeg?q=70&crop=false",
+            "category": "Pants",
+            "color": "Blue",
+            "price": 1000,
+            "size": "32x32",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 28,
+            "name": "Women Regular Fit Striped Formal Shirt",
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/a/9/t/-original-imagvqbgtwmjfgh2.jpeg?q=70&crop=false",
+            "category": "Shirts",
+            "color": "Purple",
+            "price": 1000,
+            "size": "S",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 29,
+            "name": "Party Regular Sleeves Solid Women Black Top",
+            "image": "https://rukminim2.flixcart.com/image/832/832/kzpw2vk0/top/o/2/5/xs-tttp006062-tokyo-talkies-original-imagbz9knhdfhzgk.jpeg?q=70&crop=false",
+            "category": "Tops",
+            "color": "Black",
+            "price": 1000,
+            "size": "XS",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 30,
+            "name": "Women Printed Cotton Blend Anarkali Kurta  (Green)",
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/kurta/t/4/d/xxl-h-n-311-s-h-n-original-imagf9zzrrrgwu7x.jpeg?q=70&crop=false",
+            "category": "traditional Wear",
+            "color": "Green",
+            "price": 1000,
+            "size": "XXl",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 31,
+            "name": "Women Boxy, Regular Fit Printed Lapel Collar Casual Shirt",
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/5/4/k/l-234-j-turritopsis-original-imagnfwnxzckdueh.jpeg?q=70&crop=false",
+            "category": "Shirts",
+            "color": "Black",
+            "price": 1000,
+            "size": "L",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 32,
+            "name": "Casual Regular Sleeves Floral Print Women Orange Top",
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/top/g/n/m/xl-gbk1369-god-bless-original-imagjvzhgrgw5azh.jpeg?q=70&crop=false",
+            "category": "Tops",
+            "color": "Orange",
+            "price": 1000,
+            "size": "XS",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 33,
+            "name": "Casual Regular Sleeves Solid Women Brown Top",
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/top/u/k/4/m-coller-tops-style-prezone-original-imagjuvvhzxhmf4y.jpeg?q=70&crop=false",
+            "category": "Tops",
+            "color": "Brown",
+            "price": 1000,
+            "size": "S",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 34,
+            "name": "Women Regular High Rise Blue Jean",
+            "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/c/l/t/26-kttladiesjeans2461-kotty-original-imagt5x3zgycr4ax.jpeg?q=70",
+            "category": "Pants",
+            "color": "Blue",
+            "price": 1000,
+            "size": "29x29",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 35,
+            "name": "Women Regular Fit Printed Spread Collar Casual Shirt",
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/8/f/v/l-483tk482-selvia-original-imagztg22eqh9t9k.jpeg?q=70&crop=false",
+            "category": "Shirts",
+            "color": "Black",
+            "price": 1000,
+            "size": "L",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 36,
+            "name": "Casual Regular Sleeves Solid Women White Top",
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/top/x/i/q/m-wt-07-rahi-trendz-original-imagnsr2ep5x9rgd.jpeg?q=70&crop=false",
+            "category": "Sweatshirts",
+            "color": "White",
+            "price": 1000,
+            "size": "L",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 37,
+            "name": "Casual Regular Sleeves Solid Women Black Top",
+            "image": "https://rukminim2.flixcart.com/image/832/832/kf1fo280/top/x/c/q/xxl-ltp7912-black-pluss-original-imafvh6vaspxqptv.jpeg?q=70&crop=false",
+            "category": "Tops",
+            "color": "Black",
+            "price": 1000,
+            "size": "S",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 38,
+            "name": "Casual Sleeveless Self Design Women White Top",
+            "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/top/s/d/f/xl-ycomapny-tanktopw-y-company-original-imagzkq2pgmv3stw.jpeg?q=70&crop=false",
+            "category": "Tops",
+            "color": "White",
+            "price": 1000,
+            "size": "XS",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 39,
+            "name": "Women Regular Fit Checkered Cut Away Collar Casual Shirt",
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/h/j/r/xl-ttos000061-tokyo-talkies-original-imagwhe69gwghfwt.jpeg?q=70&crop=false",
+            "category": "Shirts",
+            "color": "Orange",
+            "price": 1000,
+            "size": "L",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        },
+        {
+            "id": 40,
+            "name": "Women Regular High Rise Black Jeans",
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/n/d/8/28-kttladiesjeans2456-kotty-original-imagt5x5wgrv8phb.jpeg?q=70&crop=false",
+            "category": "Pants",
+            "color": "Black",
+            "price": 1000,
+            "size": "32x32",
+            "quantity":1,
+            "details" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, corporis aut in ad maiores fuga, sed beatae molestias voluptates quod tempore ducimus consequuntur earum reiciendis. Magnam quia ratione quo enim?"
+
+        }
+    ],
+
+    "cart":[
+        {
+            "id":1000
+        }
+    ]
+
+
+}
+

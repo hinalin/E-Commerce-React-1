@@ -1,0 +1,96 @@
+#search {
+  width: 200px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.search-filter{
+  margin-top: 80px  ;
+  display: flex;
+  justify-content: end;
+  background-color: black;
+  height: 100px;
+  padding: 35px 20px 20px 20px ;
+  width: 100%;
+  position: fixed;
+}
+.search-filter h4{
+  color: white;
+  margin-right: 630px;
+}
+
+.product{
+    height: 600px;
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 360px;
+    margin: 20px 0px 0px 20px ;
+   
+}
+.product p,h6{
+  text-decoration: none;
+  color: black;
+}
+.product-list{
+  padding-top: 200px;
+}
+
+
+.product-image{
+  height: 75%;
+  width: 100%;
+  border-radius: 20px 20px 0px 0px;
+}
+.product-pagination{
+  padding: 30px 0px 50px 0px;
+}
+
+.pagination {
+    display: inline-block;  
+    margin-left: 40%;
+}
+  
+.pagination a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .5s;
+}
+.pagination a.active {
+    background-color:black;
+    color: antiquewhite;
+    font-weight: bold;
+}
+
+.multiselect {
+  width: 180px;
+  padding: 0px;
+  color: aliceblue;
+  margin-right: 10px;
+}
+.overSelect{
+  height: 300px;
+  overflow-y: auto;
+  color: black;
+  background-color:whitesmoke; 
+  margin-top: 10px;
+  border-radius: 10px;
+  padding: 5px;
+
+}
+.selectBox input {
+  margin-right: 5px;
+}
+.selectBox label {
+  display: block;
+  padding: 5px;
+}
+.selectBox label:hover {
+  background-color:white;
+}
+.filter-select{
+  width: 180px;
+  padding: 10px;
+  border-radius: 5px;
+}
